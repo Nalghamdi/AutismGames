@@ -21,7 +21,7 @@ At the end, score will be given out of 8.
 
 
 ## Link to Games: 
-
+[Click Here] (https://nalghamdi.github.io/AutismGames/).
 
 ## Technologies Used 
 * HTML 
