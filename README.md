@@ -20,8 +20,8 @@ On each each correct selection, the score will increase; and in wrong answers, t
 At the end, score will be given out of 8.
 
 
-## Link to Games: 
-[Click Here] (https://nalghamdi.github.io/AutismGames/).
+## Link to Game: 
+[Click Here](https://nalghamdi.github.io/AutismGames/)
 
 ## Technologies Used 
 * HTML 
@@ -33,6 +33,10 @@ At the end, score will be given out of 8.
 * Some sounds.
 * Multiple levels for each game.
 * Games for children above 8 yrs old.
+
+## Special Thanks
+* Google for answering all my Q's 💁.
+* Trevor Jackie and Ghadeer for their support and advice.
 
 ## Resources
 * [w3schools ](https://www.w3schools.com/)
