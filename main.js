@@ -860,7 +860,7 @@ var colors3 = ['Red','Yellow','Lightblue','Brown']
 $colorNeeded =$('<h2/>').addClass('colorNeeded');
 
 $('.starterLine').after($colorNeeded);
-$colorNeeded.text('Catch the '+colors3[0]  + ' ' +colors3[1] + ' ' +colors3[2]+ ' colors');
+$colorNeeded.text('Catch the '+colors3[0]  + ' ' +colors3[1] + ' ' +colors3[2]+ ' ' +colors3[3]+' colors');
 $colorNeeded.css({
     'font-family': "'Arima Madurai', cursive",
 	'color':'#009688',
