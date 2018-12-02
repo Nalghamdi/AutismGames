@@ -35,8 +35,8 @@ At the end, score will be given out of 8.
 * Games for children above 8 yrs old.
 
 ## Special Thanks
-*First and foremost, I want to thank my family who supported me from the very beginning and believed in me. They were the first source of support, encouragement and motivation.
-*Furthermore, I would like to express my warm gratitude towards my great instructors (Trevor, Jackie and Ghadeer) for their continuous support and guidance during the project week. They were always there whenever I needed any advice and shared their knowledge with me.
+* First and foremost, I want to thank my family who supported me from the very beginning and believed in me. They were the first source of support, encouragement and motivation.
+* Furthermore, I would like to express my warm gratitude towards my great instructors (Trevor, Jackie and Ghadeer) for their continuous support and guidance during the project week. They were always there whenever I needed any advice and shared their knowledge with me.
 * Finally, never forget giving the credit to Google for answering all my Q's 💁.
 
 ## Resources
